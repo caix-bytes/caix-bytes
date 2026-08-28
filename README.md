@@ -10,7 +10,8 @@
   <img align="center" alt="caix-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-  ##
+
+
 ## l1nux d1str0s th4t I'v3 4lr34dy us3d
 
 <a href="https://archlinux.org" target="_blank">
@@ -25,4 +26,7 @@
 <img alt="Ubunto-logo" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
 </a>
 
-  ##
+<a href="https://www.kali.org" target="_blank">
+<img alt="Kali-linux-logo" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" />
+</a>
+
