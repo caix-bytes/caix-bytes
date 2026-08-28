@@ -18,7 +18,11 @@
 </a>
 
 <a href="https://chromeos.google" target="_blank">
-<img alt="chrome os logo" height="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" />
-</a>          
+<img alt="Chrome-os-logo" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" />
+</a> 
+
+<a href="https://ubuntu.com" target="_blank">
+<img alt="Ubunto-logo" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
+</a>
 
   ##
